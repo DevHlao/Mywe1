@@ -1,2 +1,2 @@
-# Mywe1
+# MyWebsite
 A mini website about myself
